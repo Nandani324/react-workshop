@@ -3,7 +3,7 @@ import Navbar from "../component/Navbar"
   function Edit() {
   return (
     <>
-  T<Navbar/>
+  <Navbar/>
   <div className="inline-flex items-center rounded-md shadow-sm">
     <button className="text-slate-800 hover:text-blue-600 text-sm bg-white hover:bg-slate-100 border border-slate-200 rounded-l-lg font-medium px-4 py-2 inline-flex space-x-1 items-center">
       <span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
